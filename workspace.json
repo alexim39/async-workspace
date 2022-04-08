@@ -1,4 +1,10 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "auth": "libs/auth",
+    "material": "libs/material",
+    "shared-ui": "libs/shared-ui",
+    "sollogger": "apps/sollogger",
+    "sollogger-e2e": "apps/sollogger-e2e"
+  }
 }
